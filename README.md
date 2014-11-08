@@ -1,6 +1,6 @@
 # SpamViewer
 
-**S**imple **P**ortable **A**ny **M**ap image Viewer is a basic viewer for the pnm file formats.
+Simple Portable Any Map image Viewer is a basic viewer for the pnm file formats.
 
 ## Known issues & ToDos
 

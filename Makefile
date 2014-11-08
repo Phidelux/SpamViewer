@@ -5,7 +5,6 @@ LDFLAGS = -lSDL2
 SRC_FOLDER = ./src
 BIN_FOLDER = ./bin
 
-# SRC := $(wildcard *.cpp)
 SRC = $(shell find $(SRC_FOLDER) -type f -name '*.cpp')
 OBJ := $(patsubst $(SRC_FOLDER)/%.cpp, $(BIN_FOLDER)/%.o, $(SRC))
 
